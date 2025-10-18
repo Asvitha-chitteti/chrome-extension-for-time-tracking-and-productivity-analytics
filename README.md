@@ -1,5 +1,4 @@
-<img width="534" height="343" alt="time tacker" src="https://github.com/user-attachments/assets/d9fed747-9e13-44d1-a5c9-21d70e26ad69" />
-<img width="534" height="343" alt="time tacker" src="https://github.com/user-attachments/assets/df8ed818-6504-4042-98d7-60eaec278c12" />
+
 # Task1-API-INTEGRATION 
 
 API-INTEGRATION COMPANY: CODTECH IT SOLUTIONS 
